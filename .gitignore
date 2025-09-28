@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*.DS_Store
+*.DS_Store?
+*.pyc
+.idea
+.idea/
+Exercises/05 - Transformers/transformer_model.pt
